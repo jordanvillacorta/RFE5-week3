@@ -10,5 +10,6 @@ Found a great resource for QuickSort Algorithms, researching for the quicksort t
 Incredible resource that basically creates an entire webpackage for you, given by Blue:
 -- https://createapp.dev/webpack
 
-
+React Docs for Components && Props:
+-- https://reactjs.org/docs/components-and-props.html
 
