@@ -7,7 +7,8 @@ Found a good article on how to pass a parameter through React's `onClick`:
 Found a great resource for QuickSort Algorithms, researching for the quicksort toy problem:
 -- https://www.guru99.com/quicksort-in-javascript.html
 
-
+Incredible resource that basically creates an entire webpackage for you, given by Blue:
+-- https://createapp.dev/webpack
 
 
 
