@@ -13,3 +13,6 @@ Incredible resource that basically creates an entire webpackage for you, given b
 React Docs for Components && Props:
 -- https://reactjs.org/docs/components-and-props.html
 
+Node.js Docs for using their Debugger:
+-- https://nodejs.org/dist/latest-v14.x/docs/api/debugger.html
+
